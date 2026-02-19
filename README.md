@@ -1,4 +1,4 @@
-# 555 Timer PCB with Custom SOIC-8 Library – Fusion 360
+# 555 Timer PCB with Custom SOIC-8 Library – Fusion 360 and also Enclosure for it.
 
 ## Project Overview
 
