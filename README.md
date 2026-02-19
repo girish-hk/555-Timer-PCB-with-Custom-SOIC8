@@ -71,6 +71,30 @@ The project includes fabrication-ready outputs.
 This project helped me understand the full hardware development flow — from component definition to fabrication outputs.
 
 
+---
+
+## Enclosure Concept Design (Fusion 360)
+
+To extend the PCB into a complete product-level concept, a custom enclosure was modeled in Fusion 360 and integrated with the 3D PCB assembly.
+
+The enclosure was designed to validate mechanical fit, clearance, and component accessibility.
+
+### Design Specifications
+
+- Overall dimensions: 45.42 mm (L) × 34.38 mm (W) × 18 mm (H)
+- Enclosure wall thickness: 2 mm
+- Base clearance from PCB: 3 mm
+- Side clearance: 5 mm
+- PCB mounting standoff height: 4 mm
+- LED and connector openings aligned with PCB layout
+
+### Mechanical Integration Highlights
+
+- PCB-to-enclosure alignment verified in 3D assembly
+- Internal standoff-based PCB mounting structure
+- LED visibility and external connector access defined
+- Clearance validated for component height
+
 
 ---
 
